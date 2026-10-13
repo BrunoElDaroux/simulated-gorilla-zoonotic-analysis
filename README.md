@@ -1,5 +1,5 @@
 
-# Human-to-Gorilla Zoonotic Disease Transmission Risk Analysis
+# Human-to-Gorilla Zoonotic Disease Transmission Risk Analysis (A Simulated Project)
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
@@ -33,7 +33,7 @@ Any future research involving real institutional or field data would require the
 
 ---
 
-## Research Findings
+## Research Findings (Simulated Results)
 
 1. `Age Category is the Strongest Predictor of Respiratory Illness Susceptibility`
 A Kruskal-Wallis test confirmed that illness rates differ significantly across age categories (H = 55.81, p < 0.001, η² = 0.65 ,large effect). Infants and silverbacks carried the highest illness burden. Pairwise Bonferroni-corrected comparisons identified the specific age groups driving this effect. This finding is consistent with immunological theory: infants lack acquired immunity while older silverbacks face immunosenescence compounding injury costs from dominance contests. 
