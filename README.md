@@ -342,7 +342,7 @@ These sources provide biological and methodological context; they do not validat
 ## Author
 
 **Bruno Rudahongerwa Rwarahoze**  
-Former Data Entry Staff Member, Dian Fossey Gorilla Fund  
+Former Data Entry Intern, Dian Fossey Gorilla Fund  
 Portfolio project in data analysis, computational epidemiology, SQL, and machine learning.
 
 ---
